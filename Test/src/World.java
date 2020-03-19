@@ -7,6 +7,7 @@ public class World {
 		System.out.println("ѕривет ћир !!, я познаю Git");
 		System.out.println("” мен€ наконец-то получилось добавить в Git Hub свой проект :)");
 		System.out.println("€ смог обновить репозиторий");
+		Syestem.out.println("€ смог удалить репозиторий");
 		
 
 	}
